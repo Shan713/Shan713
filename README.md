@@ -18,7 +18,7 @@ I'm a **3rd year undergraduate student** passionate about **Semantics, Knowledge
 
 ## 🧠 Technical Skills
 **Languages:**  
-Python, C, C++, JavaScript, SQL
+Python, C, C++, Java, JavaScript, SQL
 
 **Frameworks & Tools:**  
 Django (basic), Pandas, Matplotlib, Git, Arduino, PlatformIO, iFogSim2, Protégé, GraphDB
